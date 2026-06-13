@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -32,14 +32,6 @@
 **AI automation (ReeMain)** — 27 production LLM workflows for business clients on an n8n stack, integrating Claude / OpenAI APIs and MCP tooling.
 
 **Dragon Heart Studios** — a digital products studio I founded and run solo: commercial game systems shipped to 1,000+ paying customers on live multiplayer platforms.
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tkiljoy&show_icons=true&hide_border=true&theme=tokyonight" alt="Kris's GitHub stats" />
-</p>
 
 ---
 
