@@ -37,5 +37,6 @@
 
 ### 📫 Reach me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0613?style=for-the-badge&logo=astro&logoColor=white)](https://portfolio-lac-three-81.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krisreed2001@gmail.com)
 [![Website](https://img.shields.io/badge/Website-1F3864?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dragonheartstudios.net)
