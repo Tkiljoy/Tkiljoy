@@ -29,7 +29,7 @@
 
 **[DHS-Lair](https://github.com/Tkiljoy/DHS-Lair)** — a self-hosted multi-agent AI orchestration platform. A router agent delegates to role-based specialist agents, each sandboxed with its own tool allowlist, backed by shared persistent memory, an append-only audit log, kill switches, and an outbound exfil guard. *Node.js · TypeScript · Fastify · SQLite · Claude.*
 
-**AI automation (ReeMain)** — 27 production LLM workflows for business clients on an n8n stack, integrating Claude / OpenAI APIs and MCP tooling.
+**AI automation (ReeMain)** — 70+ production LLM workflows for business clients on an n8n stack, integrating Claude / OpenAI APIs and MCP tooling.
 
 **Dragon Heart Studios** — a digital products studio I founded and run solo: commercial game systems shipped to 1,000+ paying customers on live multiplayer platforms.
 
